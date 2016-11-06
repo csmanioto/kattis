@@ -1,5 +1,5 @@
 """
-Solution of Phonelist test code: of https://cmind.kattis.com/problems/phonelist
+Solution of Phonelist test code: of https://open.kattis.com/problems/phonelist
 __author__ = "Carlos Eduardo Smaniotto"
 __email__ = "csmanioto@gmail.com"
 __date__ = "2016-11-06"
